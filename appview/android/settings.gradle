@@ -1,0 +1,3 @@
+rootProject.name = 'appview'
+
+include ':app'
